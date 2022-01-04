@@ -1,0 +1,25 @@
+{
+  "name": "pmpr-pkg/wp-pkg-security",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Security Package for Wordpress",
+  "keywords": [
+    "wordpress",
+    "security",
+    "package"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "pmpr-cmn/wp-cmn-foundation": "dev-main"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Package\\Security\\": "src/Pmpr/Package/Security"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
+
