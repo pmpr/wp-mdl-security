@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6213da5709478             |
+    |             6240112cd6c07             |
     |_______________________________________|
 */
- use Pmpr\Package\Security\Security; Security::symcgieuakksimmu();
+ use Pmpr\Module\Security\Security; Security::symcgieuakksimmu();

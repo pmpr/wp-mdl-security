@@ -1,8 +1,8 @@
 {
-  "name": "pmpr-pkg/wp-pkg-security",
+  "name": "pmpr-mod/wp-mod-security",
   "type": "project",
   "license": "proprietary",
-  "description": "Security Package for Wordpress",
+  "description": "Security Module for Wordpress",
   "keywords": [
     "wordpress",
     "security",
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pmpr\\Package\\Security\\": "src/Pmpr/Package/Security"
+      "Pmpr\\Module\\Security\\": "src/Pmpr/Module/Security"
     },
     "files": [
       "index.php"
