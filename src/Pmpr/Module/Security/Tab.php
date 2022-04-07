@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             624c0d27763b4             |
+    |             624eb31a6ee22             |
     |_______________________________________|
 */
- namespace Pmpr\Module\Security; class Tab extends Container { public function kgquecmsgcouyaya() { $uusmaiomayssaecw = Setting::symcgieuakksimmu()->cisyiemkeykgkomc(); $this->cecaguuoecmccuse($this->ygyygikyocoymgaw("{$uusmaiomayssaecw}\137\164\x61\142\x73"), [$this, "\141\x75\143\x69\155\x67\167\x73\x77\155\x67\x61\157\143\x61\x65"])->cecaguuoecmccuse("\x62\145\146\x6f\162\x65\137\x73\141\166\145\137{$uusmaiomayssaecw}\x5f\157\160\x74\151\157\156\163", [$this, "\161\155\x71\x6f\x67\165\163\157\141\161\x65\171\x67\145\x77\155"], 10, 2); } public function aucimgwswmgaocae($ywoucyskcquysiwc) { return $ywoucyskcquysiwc; } public function qmqogusoaqeygewm($qiouiwasaauyaaue, $scegeeyqweaksmki) { return $qiouiwasaauyaaue; } }
+ namespace Pmpr\Module\Security; class Tab extends Container { public function kgquecmsgcouyaya() { $uusmaiomayssaecw = Setting::symcgieuakksimmu()->cisyiemkeykgkomc(); $this->cecaguuoecmccuse($this->ygyygikyocoymgaw("{$uusmaiomayssaecw}\137\164\141\142\x73"), [$this, "\141\x75\143\x69\155\x67\x77\163\x77\155\147\141\x6f\143\141\145"])->cecaguuoecmccuse("\x62\145\x66\157\x72\x65\137\163\141\x76\x65\x5f{$uusmaiomayssaecw}\137\157\160\164\151\x6f\156\x73", [$this, "\x71\x6d\x71\x6f\x67\165\x73\157\x61\161\x65\171\147\x65\167\x6d"], 10, 2); } public function aucimgwswmgaocae($ywoucyskcquysiwc) { return $ywoucyskcquysiwc; } public function qmqogusoaqeygewm($qiouiwasaauyaaue, $scegeeyqweaksmki) { return $qiouiwasaauyaaue; } }
