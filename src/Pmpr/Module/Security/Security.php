@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68a63e296edd0             |
+    |             68a661c737a19             |
     |_______________________________________|
 */
  namespace Pmpr\Module\Security; use Pmpr\Common\Foundation\Container\ModuleInitiator; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Module\Security\Defender\Defender; use Pmpr\Module\Security\Setting\Setting; use Pmpr\Module\Security\ThirdParty\Recaptcha\Recaptcha; class Security extends ModuleInitiator { public function register() { $this->gkieogwukagigisy(__DIR__, [Constants::qescuiwgsyuikume => static function () { return __('Security', PR__MDL__SECURITY); }, Constants::wuowaiyouwecckaw => false, Constants::sguyaymiiiiewame => Setting::class]); } public function mameiwsayuyquoeq() { Defender::symcgieuakksimmu(); Recaptcha::symcgieuakksimmu(); } }
